@@ -139,7 +139,7 @@ module Client =
             .Title(newEntryTitle)
             .Author(newEntryAuthor)
             .Published(newEntryPublished)
-            .Msg(msg) // add comment 2022-04-28
+            .Msg(msg) // add comment
             // *****************************************************
             //  Regisiter button
             // *****************************************************
